@@ -1,3 +1,3 @@
 # blink5
 
-Based on thethe blink example in the Raspberry Pi Pico examples
+Based on the blink example in the Raspberry Pi Pico examples
