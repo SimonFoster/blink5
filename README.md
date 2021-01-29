@@ -1,3 +1,5 @@
-# blink5
+# pico_blink
 
-Based on the blink example in the Raspberry Pi Pico examples
+Based on the blink example from the Raspberry Pi examples archive
+
+Modified to add 5 blinks
